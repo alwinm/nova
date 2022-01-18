@@ -21,8 +21,11 @@ Outline:
 Refer to:
 
 https://jakevdp.github.io/PythonDataScienceHandbook/
+
 https://numpy.org/doc/
+
 https://matplotlib.org/
+
 https://www.h5py.org/
 
 For complete documentation of useful tools, and highly recommend using stackoverflow and search engines while trying to find the right functions to use to solve problems. 
